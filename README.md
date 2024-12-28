@@ -42,3 +42,4 @@
 # USAGE GUIDELINE
 - Make sure to use Cloudfare DNS so that TMDB Request can be passed through
 - Make sure to enter your TMDB and GEMINI API Key in .env file
+- Make sure to make an API File name firebase.js in the utils folder containing the API Key and APP inforamation through Firebase console
